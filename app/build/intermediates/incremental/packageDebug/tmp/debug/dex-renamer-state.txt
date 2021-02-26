@@ -1,0 +1,4 @@
+#Fri Feb 26 00:23:07 CST 2021
+base.0=/Users/ryanman/Documents/Develope/music-audio/Android-as-AudioPlayer/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

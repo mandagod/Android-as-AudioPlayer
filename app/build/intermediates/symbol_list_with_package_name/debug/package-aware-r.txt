@@ -1,0 +1,24 @@
+com.phuket.tour.audioplayer
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+id action_settings
+id audio_track_impl_layout
+id opensl_es_impl_layout
+id play_audiotrack_btn
+id play_opensl_es_btn
+id stop_audiotrack_btn
+id stop_opensl_es_btn
+id title_audiotrack
+id title_opensl_es
+layout activity_main
+menu main
+string action_settings
+string app_name
+string audio_player_audiotrack
+string hello_world
+string opensl_es_audiotrack
+string play
+string stop
+style AppBaseTheme
+style AppTheme

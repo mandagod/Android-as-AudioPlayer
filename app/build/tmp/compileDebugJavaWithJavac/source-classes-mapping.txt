@@ -1,0 +1,22 @@
+com/phuket/tour/audioplayer/audiotrack/Mp3Decoder.java
+ com.phuket.tour.audioplayer.audiotrack.Mp3Decoder
+com/phuket/tour/audioplayer/audiotrack/NativeMp3Player.java
+ com.phuket.tour.audioplayer.audiotrack.NativeMp3Player
+ com.phuket.tour.audioplayer.audiotrack.NativeMp3Player$PlayerThread
+com/phuket/tour/audioplayer/opensles/SoundTrackController.java
+ com.phuket.tour.audioplayer.opensles.SoundTrackController
+ com.phuket.tour.audioplayer.opensles.SoundTrackController$OnCompletionListener
+com/phuket/tour/audioplayer/BuildConfig.java
+ com.phuket.tour.audioplayer.BuildConfig
+com/phuket/tour/audioplayer/audiotrack/MusicDecoder.java
+ com.phuket.tour.audioplayer.audiotrack.MusicDecoder
+com/phuket/tour/audioplayer/audiotrack/NativeMp3PlayerController.java
+ com.phuket.tour.audioplayer.audiotrack.NativeMp3PlayerController
+ com.phuket.tour.audioplayer.audiotrack.NativeMp3PlayerController$MusicTimerTask
+com/phuket/tour/audioplayer/MainActivity.java
+ com.phuket.tour.audioplayer.MainActivity
+ com.phuket.tour.audioplayer.MainActivity$1
+ com.phuket.tour.audioplayer.MainActivity$2
+ com.phuket.tour.audioplayer.MainActivity$3
+ com.phuket.tour.audioplayer.MainActivity$4
+ com.phuket.tour.audioplayer.MainActivity$5
